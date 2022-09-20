@@ -1,0 +1,1000 @@
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.492,"bid":0.492,"ask":0.493,"price":0.492,"type":"future","futur
+l,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false,"l
+8199608610567,"changeBod":-0.026706231454005934,"quoteVolume24h":2253552
+}
+
+【FTX】正在请求API: orders/157221241113/modify
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":false,"error":"Must modify either price or size"}
+
+【FTX】订单修改完成，id为：157221241113
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.492,"bid":0.492,"ask":0.493,"price":0.492,"type":"future","futur
+l,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false,"l
+625,"changeBod":-0.026706231454005934,"quoteVolume24h":2261477.1689,"vol
+
+【FTX】正在请求API: orders/157221241113/modify
+【FTX】 {"success":false,"error":"Must modify either price or size"}
+
+【FTX】订单修改完成，id为：157221241113
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221241113,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:30:02.092504+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.4925,"bid":0.492,"ask":0.493,"price":0.4925,"type":"future","fut
+ull,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false,
+089581304771178,"changeBod":-0.025717111770524232,"quoteVolume24h":22614
+}
+
+【FTX】正在请求API: orders/157221241113/modify
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":{"id":157221481081,"clientId":null,"marke
+":"new","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liqui
+2-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}}
+
+【FTX】订单修改完成，id为：157221241113
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.4925,"bid":0.492,"ask":0.4925,"price":0.4925,"type":"future","fu
+null,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false
+089581304771178,"changeBod":-0.025717111770524232,"quoteVolume24h":22614
+}
+
+【FTX】正在请求API: orders/157221481081/modify
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":false,"error":"Must modify either price or size"}
+
+【FTX】订单修改完成，id为：157221481081
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221481081,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:31:18.226118+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.492,"bid":0.492,"ask":0.4925,"price":0.492,"type":"future","futu
+ll,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false,"
+86952288218111,"changeBod":-0.026706231454005934,"quoteVolume24h":226099
+}}
+
+【FTX】正在请求API: orders/157221481081/modify
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":{"id":157221575141,"clientId":null,"marke
+s":"new","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liqu
+22-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}}
+
+【FTX】订单修改完成，id为：157221481081
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.492,"bid":0.492,"ask":0.4925,"price":0.492,"type":"future","futu
+ll,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false,"
+731778425655975,"changeBod":-0.026706231454005934,"quoteVolume24h":22609
+5}}
+
+【FTX】正在请求API: orders/157221575141/modify
+【FTX】 {"success":false,"error":"Must modify either price or size"}
+
+【FTX】订单修改完成，id为：157221575141
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.492,"bid":0.492,"ask":0.4925,"price":0.492,"type":"future","futu
+ll,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false,"
+731778425655975,"changeBod":-0.026706231454005934,"quoteVolume24h":22609
+5}}
+
+【FTX】正在请求API: orders/157221575141/modify
+【FTX】 {"success":false,"error":"Must modify either price or size"}
+
+【FTX】订单修改完成，id为：157221575141
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.492,"bid":0.492,"ask":0.4925,"price":0.492,"type":"future","futu
+ll,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false,"
+,"changeBod":-0.026706231454005934,"quoteVolume24h":2260994.74825,"volum
+
+【FTX】正在请求API: orders/157221575141/modify
+【FTX】 {"success":false,"error":"Must modify either price or size"}
+
+【FTX】订单修改完成，id为：157221575141
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221575141,"clientId":null,"mark
+us":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"li
+"2022-06-22T02:31:54.963297+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.4925,"bid":0.492,"ask":0.4935,"price":0.4925,"type":"future","fu
+null,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false
+17,"changeBod":-0.025717111770524232,"quoteVolume24h":2261245.97815,"vol
+
+【FTX】正在请求API: orders/157221575141/modify
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":{"id":157221806719,"clientId":null,"marke
+":"new","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liqui
+2-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}}
+
+【FTX】订单修改完成，id为：157221575141
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.4925,"bid":0.4925,"ask":0.493,"price":0.4925,"type":"future","fu
+null,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false
+17,"changeBod":-0.025717111770524232,"quoteVolume24h":2261245.97815,"vol
+
+【FTX】正在请求API: orders/157221806719/modify
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":false,"error":"Must modify either price or size"}
+
+【FTX】订单修改完成，id为：157221806719
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待3秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】计时器已超时，将修改订单价格为市价，不做调整
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】正在请求API: markets/BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":{"name":"BNT-PERP","enabled":true,"postOn
+last":0.4925,"bid":0.4925,"ask":0.493,"price":0.4925,"type":"future","fu
+null,"underlying":"BNT","restricted":false,"highLeverageFeeExempt":false
+17,"changeBod":-0.025717111770524232,"quoteVolume24h":2261245.97815,"vol
+
+【FTX】正在请求API: orders/157221806719/modify
+【FTX】 {"success":false,"error":"Must modify either price or size"}
+
+【FTX】订单修改完成，id为：157221806719
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待15秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待12秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待9秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【FTX】 {"success":true,"result":[{"id":157221806719,"clientId":null,"mark
+s":"open","filledSize":0.0,"remainingSize":122.0,"reduceOnly":false,"liq
+2022-06-22T02:33:08.193300+00:00","future":"BNT-PERP"}]}
+【FTX】[平空]订单未完全成交, 将等待6秒
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【FTX】正在请求API: orders?market=BNT-PERP
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+【OKX】正在等待对方订单成交
+
+^C
+C:\Users\Administrator.000\Desktop\news>
